@@ -23,8 +23,6 @@ class Solution {
         int level = water - height[i];
         sum +=level;
     }
-        
-    return sum;
-        
+    return sum;    
     }
 }
